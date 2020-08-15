@@ -1,3 +1,3 @@
-# SachinThink
+# Thinkfull Assessment
 
-Sample PortFolio
+Sample PortFolio Assignment
